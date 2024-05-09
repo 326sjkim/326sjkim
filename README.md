@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m currently working on teaching subject concerned with Computer science.
+My classes related to computers and artificial intelligence are being taught.
+
+And I want to teach how to use GitHub .
+
 <!--
 **326sjkim/326sjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
