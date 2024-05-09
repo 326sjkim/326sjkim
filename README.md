@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I’m currently working on teaching subject concerned with Computer science. <br>
-My classes related to computers and artificial intelligence are being taught.<br><br>
+I’m currently working on teaching subject concerned with Computer science.  
+My classes related to computers and artificial intelligence are being taught.  
 
 And I want to teach how to use GitHub .
 
