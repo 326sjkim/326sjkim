@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I’m currently working on teaching subject concerned with Computer science.  
-My classess related to computers and artificial intelligence are being taught.  
-
+The subject  is related with computers and artificial intelligence.  
 And I want to teach how to use GitHub .
 
 Thank you.
