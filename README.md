@@ -2,7 +2,6 @@
 
 I’m currently working on teaching subject concerned with Computer science.  
 The subject  is related with computers and artificial intelligence.  
-And I want to teach how to use GitHub .
 
 Thank you.
 
